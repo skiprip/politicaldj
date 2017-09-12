@@ -85,7 +85,7 @@
       ["sound", "[POLITICAL]: The song had bad audio or no audio. "],
       ["nsfw", "[POLITICAL]: The song you played was NSFW. "],
       ["unavailable", "[POLITICAL]: The song you played is unavailable for some users. "]
-	  ["testskip", "[BOT-TEST]: SKIPPING SONG AS A TEST, DO NOT WORRY. "] 
+      ["testskip", "[BOT-TEST]: SKIPPING SONG AS A TEST, DO NOT WORRY. "] 
       ],
       afkpositionCheck: 15,
       afkRankCheck: "ambassador",
