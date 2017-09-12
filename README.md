@@ -1,4 +1,4 @@
-###### POLITICAL!
+## POLITICAL!
 Github for the bot and other projects.
 
 This Git was created by the OFFICIAL staff for "Political!" (Skip)
