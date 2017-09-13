@@ -44,6 +44,7 @@
             else {
               API.sendChat("/me Political! is a Plug.dj community for EDM, Rock and Political Styled music!, Check our info page at http://skip.rip/plug/info.html for more!");
             }
+           }
           }
         };
 
